@@ -1,6 +1,8 @@
 # PANDAS TSE 2018
 Este projeto consiste na mineiração dos dados do primeiro turno das eleições presidenciais de 2018 para fins de um estudo 
-estatístico sobre a apuração dos presidenciáveis para o Brasil.
+estatístico sobre a apuração dos presidenciáveis para o Brasil. 
+
+Foi realizado pelos aluno [Camilo B. Moreira](https://github.com/camilobmoreira) e [Giuliano Gimenez](https://github.com/giulianogimenez) para a disciplina de Banco de Dados Não Estruturados lecionada pelo [Professor Fernando Masanori](https://github.com/fmasanori), no curso de Tecnologia em Banco de Dados na [Fatec São José dos Campos - Profº Jessen Vidal](http://fatecsjc-prd.azurewebsites.net/).
 
 ## MINEIRAÇÃO DOS DADOS
 Os dados são obtidos através do [portal da agência do Tribunal Superior Eleitoral](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais) atavés dos hyperlinks lá disponíveis. Para
@@ -20,6 +22,7 @@ de votos dos candidatos à presidência da república.
 Através desses dados, foi possível carregá-los para o [Pandas](https://pandas.pydata.org/) e fazer a análise técnica e estatística
 do resultado. Nesse estudo, foi utilizada somente a carga de dados do norte do país devido à grande massa de dados para serem
 analisadas.
+
 Para a execução do Pandas, é utilizado o framework [Jupyter Notebook](http://jupyter.org/) o qual fica responsável por gerar a 
 análise aritimética do resultado, gerando estruturas estatísticas para melhor apresentação do escopo sugerido.
 Para executar o Pandas com o Jupyter Notebook, execute no terminal a linha abaixo:
@@ -27,4 +30,3 @@ Para executar o Pandas com o Jupyter Notebook, execute no terminal a linha abaix
 jupyter notebook
 ```
 O serviço do Jupyter Notebook com o Pandas estará disponível através da URL [http://localhost:8888/notebooks/pandas.ipynb](http://localhost:8888/notebooks/pandas.ipynb).
-Esse trabalho foi realizado pelos aluno [Camilo B. Moreira](https://github.com/camilobmoreira) e [Giuliano Gimenez](https://github.com/giulianogimenez) para a disciplina de Banco de Dados Não Estruturados lecionada pelo [Professor Fernando Masanori](https://github.com/fmasanori), no curso de Tecnologia em Banco de Dados na [Fatec São José dos Campos - Profº Jessen Vidal](http://fatecsjc-prd.azurewebsites.net/).
