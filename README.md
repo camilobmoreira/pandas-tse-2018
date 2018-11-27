@@ -27,3 +27,4 @@ Para executar o Pandas com o Jupyter Notebook, execute no terminal a linha abaix
 jupyter notebook
 ```
 O serviço do Jupyter Notebook com o Pandas estará disponível através da URL [http://localhost:8888/notebooks/pandas.ipynb](http://localhost:8888/notebooks/pandas.ipynb).
+Esse trabalho foi realizado pelos aluno [Camilo B. Moreira](https://github.com/camilobmoreira) e [Giuliano Gimenez](https://github.com/giulianogimenez) para a disciplina de Banco de Dados Não Estruturados lecionada pelo [Professor Fernando Masanori](https://github.com/fmasanori), no curso de Tecnologia em Banco de Dados na [Fatec São José dos Campos - Profº Jessen Vidal](http://fatecsjc-prd.azurewebsites.net/).
