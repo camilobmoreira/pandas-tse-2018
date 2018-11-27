@@ -16,7 +16,7 @@ contém dados das contagens de votos para cada candidato disponível naquele est
 os candidatos à deputados estaduais, deputados federais, senadores e governador desse estado. Além disso, haverá também a contagem
 de votos dos candidatos à presidência da república.
 
-## ESTUDOS DOS DADOS ESTATÍSTICOS UTILIZANDO O PANDAS
+## ESTUDO DOS DADOS ESTATÍSTICOS UTILIZANDO O PANDAS
 Através desses dados, foi possível carregá-los para o [Pandas](https://pandas.pydata.org/) e fazer a análise técnica e estatística
 do resultado. Nesse estudo, foi utilizada somente a carga de dados do norte do país devido à grande massa de dados para serem
 analisadas.
